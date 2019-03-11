@@ -1,4 +1,1 @@
-# vscode-issue-70136
-Demo of VS Code issue 70136
-
-foo
+This is README.md in branch `path/to/foo`.
